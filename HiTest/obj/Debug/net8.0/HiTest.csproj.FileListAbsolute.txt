@@ -1,0 +1,15 @@
+C:\Users\gabriel.oliveira\hi-test\HiTest\bin\Debug\net8.0\HiTest.exe
+C:\Users\gabriel.oliveira\hi-test\HiTest\bin\Debug\net8.0\HiTest.deps.json
+C:\Users\gabriel.oliveira\hi-test\HiTest\bin\Debug\net8.0\HiTest.runtimeconfig.json
+C:\Users\gabriel.oliveira\hi-test\HiTest\bin\Debug\net8.0\HiTest.dll
+C:\Users\gabriel.oliveira\hi-test\HiTest\bin\Debug\net8.0\HiTest.pdb
+C:\Users\gabriel.oliveira\hi-test\HiTest\obj\Debug\net8.0\HiTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.oliveira\hi-test\HiTest\obj\Debug\net8.0\HiTest.AssemblyInfoInputs.cache
+C:\Users\gabriel.oliveira\hi-test\HiTest\obj\Debug\net8.0\HiTest.AssemblyInfo.cs
+C:\Users\gabriel.oliveira\hi-test\HiTest\obj\Debug\net8.0\HiTest.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.oliveira\hi-test\HiTest\obj\Debug\net8.0\HiTest.sourcelink.json
+C:\Users\gabriel.oliveira\hi-test\HiTest\obj\Debug\net8.0\HiTest.dll
+C:\Users\gabriel.oliveira\hi-test\HiTest\obj\Debug\net8.0\refint\HiTest.dll
+C:\Users\gabriel.oliveira\hi-test\HiTest\obj\Debug\net8.0\HiTest.pdb
+C:\Users\gabriel.oliveira\hi-test\HiTest\obj\Debug\net8.0\HiTest.genruntimeconfig.cache
+C:\Users\gabriel.oliveira\hi-test\HiTest\obj\Debug\net8.0\ref\HiTest.dll
